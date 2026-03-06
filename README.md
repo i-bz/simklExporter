@@ -1,4 +1,4 @@
-A simple python script to export watchlist from simkl csv format.
+A simple python script to export watchlist from simkl in csv format.
 
 Requirements:
  - Simkl client_id (Go to https://simkl.com/settings/developer/ and create new app use urn:ietf:wg:oauth:2.0:oob for the return url)
